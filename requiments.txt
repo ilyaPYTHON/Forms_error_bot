@@ -1,0 +1,6 @@
+pyTelegramBotApi
+BeautifulSoup
+threading
+requests
+phonenumbers
+time
